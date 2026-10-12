@@ -1,0 +1,28 @@
+{
+  "version": 1.1,
+  "properties": [
+    { "name": "mso-ansi-font-size" },
+    { "name": "mso-border-alt" },
+    { "name": "mso-color-alt" },
+    { "name": "mso-font-alt" },
+    { "name": "mso-font-width" },
+    { "name": "mso-line-height-alt" },
+    { "name": "mso-line-height-rule" },
+    { "name": "mso-hide" },
+    { "name": "mso-margin-bottom-alt" },
+    { "name": "mso-margin-left-alt" },
+    { "name": "mso-margin-right-alt" },
+    { "name": "mso-margin-top-alt" },
+    { "name": "mso-padding-alt" },
+    { "name": "mso-special-format" },
+    { "name": "mso-style-textfill-type" },
+    { "name": "mso-style-textfill-fill-gradientfill-stoplist" },
+    { "name": "mso-table-bspace" },
+    { "name": "mso-table-lspace" },
+    { "name": "mso-table-rspace" },
+    { "name": "mso-table-tspace" },
+    { "name": "mso-text-raise" },
+    { "name": "mso-width-alt" },
+    { "name": "text-underline-color" }
+  ]
+}
